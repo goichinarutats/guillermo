@@ -1,0 +1,8 @@
+#esto es un comentario
+#los siguientes archivos seran ignorados por git
+
+Nuevo documento de texto.txt
+*.tmp
+#las siguientes Carpetas seran ignoradas por git
+/tmp
+
